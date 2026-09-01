@@ -1,0 +1,25 @@
+Milestone,Title,Main Scope
+1,"Backend Foundation, Core Mechanics & 2D Canvas","NestJs Backend, User Authentication, MongoDB, REST APIs, chess validation, move processing, clocks, PGN/FEN, 2D chess canvas, drag and drop, drawing features for AI suggestions"
+2,"Real-Time Systems & Persistence","Go Backend, Match Making (UnRanked), Redis, Game lifecycle, active game state, synchronization, background workers"
+3,"Engine Integration, Analysis & Bots","Stockfish integration, evaluation scores, move classifications, post-game analysis, bot infrastructure, Stockfish-powered bots"
+4,"Player Progression & Platform Features","Profiles, Match Making (Ranked), ratings, leaderboard, game statistics, memberships, premium controls, cosmetics (Need Explanation), advanced player features (Need Explanation)"
+5,"Tournaments & Game Modes","Tournament lifecycle, registration, pairings, standings, Anti-cheat foundation, moderation, security hardening, performance optimization and remaining backend work"
+6,"Puzzles","Puzzle progression Admin Panel (Add Puzzles, Delete Puzzles, Edit Puzzles, Disable Puzzles, Change Puzzle Rating, Set Puzzle Time Limit)"
+8,"Professional Web Application","Complete Next.js web UI, responsive UI/UX, dashboard, chess gameplay, profiles, analysis, bots, tournaments, puzzles"
+9,"Mobile Application","iOS + Android app, mobile UI/UX, authentication, chess gameplay, WebSocket integration, profiles, analysis, tournaments"
+10,"Deployment & Production","AWS infrastructure, Docker production setup, CloudFront, WAF, ALB, autoscaling, monitoring, CI/CD, performance testing, launch"
+11,"Admin Panel","Admin Panel (Users Management, Games Management, Puzzles Management, Tournaments Management, Chat Moderation, Statistics Dashboard)"
+
+
+Time Taking Tasks
+1: Ranked Match Making (Huge Task), Draw-Penalty Chess
+2: Tournaments
+3: Puzzles 
+4: Admin Panel will manage (Tournaments, Puzzles)
+
+Needs to be include
+1: Spectate
+2: User Ban/Unban
+3: Evaluation Graph
+4: Assets of Game: chess pieces, boards, backgrounds
+5: Real 3d Chess (3d Canvas)

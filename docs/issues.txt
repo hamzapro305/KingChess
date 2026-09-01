@@ -1,0 +1,12 @@
+Issues
+1: Ranked Match Making (Huge Task), Draw-Penalty Chess
+2: Tournaments (Dont Even know how much big issue it is)
+3: Puzzles 
+4: Admin Panel will manage (Tournaments, Puzzles)
+
+Needs to be include
+1: Spectate
+2: User Ban/Unban
+3: Evaluation Graph
+4: Assets of Game: chess pieces, boards, backgrounds
+5: Real 3d Chess (3d Canvas)

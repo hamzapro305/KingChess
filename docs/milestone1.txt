@@ -1,0 +1,1 @@
+"Backend Foundation, Core Mechanics & 2D Canvas","NestJs Backend, User Authentication, MongoDB, REST APIs, chess validation, move processing, clocks, PGN/FEN, 2D chess canvas, drag and drop, drawing features for AI suggestions"
